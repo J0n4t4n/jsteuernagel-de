@@ -1,0 +1,7 @@
+.DS_Store
+.hugo_build.lock
+node_modules/
+public/
+venv/
+content/
+**/.obsidian
