@@ -44,9 +44,13 @@ theme = "digitalgarden"
   url = '/stack'
   weight = 5
 [[menu.main]]
+  name = 'Interests'
+  url = '/interests'
+  weight = 6
+[[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 6
+  weight = 7
 #[[menu.main]]
 #  name = 'Polywork'
 #  url = 'https://polywork.com'
